@@ -26,10 +26,10 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     ----- ` + Config.BOTSK + ` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
-│❖ *ᴀᴜᴛʜᴏʀ* : ` ᗷKᗩᑕK ᑎOTEᘔ .PLK + `
+│❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
-│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` .SLINK + `
-│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : 8593938626
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
+│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
@@ -38,3 +38,4 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 `}) 
 
 }));
+ 
