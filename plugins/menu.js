@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Ameer Suhail✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Ameer Suhail 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝙱𝙻𝙰𝙲𝙺 𝙽𝙾𝚃𝙴𝚉 𝐛𝐨𝐭.
             *Pikachu*
 
 ■□■□■□■□■□■□■□■□■□■□
@@ -135,7 +135,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ⚠️ex  attp pikachu
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢Pikachu💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+▣▣▣▣▣▣▣▣▣ᗷᒪᗩᑕK ᑎOTEᘔ▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
