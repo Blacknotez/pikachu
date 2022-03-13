@@ -29,7 +29,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 │❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
 │❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
-│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ` http://wa.me/918593938626'
+│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
@@ -38,4 +38,3 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 `}) 
 
 }));
- 
