@@ -20,7 +20,7 @@ New.addCommand({pattern: 'true ?(.*)', desc: 'Searches for number in truecaller!
 	var initt = go.split(" ").join("")
     var number = initt.replace('+','')
     const res = await truecaller.query.find(number,'',v)
-		await msg.client.sendMessage(msg.jid, '*RECIEVED DETAILS FROM TRUECALLER!* \n\n' + '*✅' + "Number:" +'* ```' + res.phones[0].e164Format + '```\n' +
+		await msg.client.sendMessage(msg.jid, '*RECIEVED DETAILS FROM TRUECALLER..!* \n\n' + '*✅' + "Number:" +'* ```' + res.phones[0].e164Format + '```\n' +
         '*👤' + "Name:" +'* ```' + res.name+ '```\n' +
         '*🗺' + "Access:" +'* ```' + res.access + '```\n' +
         '*🔢' + "Career:" +'* ```' + res.phones[0].carrier + '```\n' +
