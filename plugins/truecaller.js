@@ -2,7 +2,6 @@
 const Asena = require('../events');
 const config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
-const v = s.CHANNEL
 
 
 if (Config.WORKTYPE == 'public') {
