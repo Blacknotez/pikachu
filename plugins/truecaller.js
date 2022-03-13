@@ -1,6 +1,6 @@
-const truecaller = require('raganork-bot')
-const New = require('../events');
-const s = require('../config');
+
+const Asena = require('../events');
+const config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
 const v = s.CHANNEL
 const sourav = s.WORKTYPE == 'public' ? false : true
